@@ -10,7 +10,7 @@ In this lab we are tasked with making a serverless caps api which uses the sns a
 
 ## UML
 
-</img src="./images/lab19-uml" alt="lab-19-uml" >
+</img src="./images/lab19-uml.png" alt="lab-19-uml" >
 
 ## Clients
 
